@@ -1,0 +1,11 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Brenntron/grunt-test-project",
+  "description": "This app is a test of using grunt rather than",
+  "authors": [
+    "Brennan <brennanw22@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true
+}
